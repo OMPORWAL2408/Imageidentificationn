@@ -1,0 +1,78 @@
+body
+{
+    font-family: 'Indie Flower', cursive;
+    background: rgb(16, 109, 51);
+}
+
+.header_div
+{
+    background:rgb(126, 10, 10);
+    color:rgb(177, 223, 126);
+}
+
+.main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 30px rgb(26, 14, 94);
+    border: 1px solid;
+}
+
+
+.header_div img
+{
+    width: 100px;
+}
+
+.main_div
+{
+    background:rgb(206, 107, 107);
+    padding:10px;
+    margin-top:15px;
+    border: 3px solid rgb(139, 28, 112);
+}
+
+.main_div label
+{
+    background: rgb(131, 218, 97);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 30px white;
+}
+
+#camera, #result
+{
+  border: 2px solid white;
+  width:310px;
+  height: 300px;
+  box-shadow: 5px 5px 30px white;
+}
+.footer_div
+{
+    margin-bottom: 50px;
+}
+
+.footer_div h4
+{
+    background: rgb(108, 234, 238);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img
+{
+    width:70px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(211, 172, 101);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(174, 96, 219);
+    line-height: 3;
+    text-align: center;
+}
